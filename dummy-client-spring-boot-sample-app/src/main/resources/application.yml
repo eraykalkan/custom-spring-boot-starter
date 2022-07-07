@@ -1,0 +1,7 @@
+dummy-client:
+  init:
+    name: test-client
+    port: 9999
+    type: TEST
+    version: 1
+    timeout: 3ms
